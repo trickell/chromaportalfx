@@ -1,0 +1,21 @@
+@font-face {
+    font-family: 'Gameofsquid';
+    src: url('../fonts/game_of_squids-webfont.woff2') format('woff2'),
+         url('../fonts/game_of_squids-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h2#logo {
+    font-size: 5rem;
+    font-family: 'Gameofsquid', sans-serif;
+    font-weight: 700;
+    color: #d4d4d4;
+}
+h2#logo b {
+    font-size: 1.5em;;
+}
+
+.hero-content img {
+    top: -50%;
+}
